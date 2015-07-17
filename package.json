@@ -1,0 +1,19 @@
+{
+  "name": "es6-fun",
+  "version": "1.0.0",
+  "description": "Fun with ES6",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilyaviva/es6-fun.git"
+  },
+  "author": "Emily Aviva Kapor-Mater",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emilyaviva/es6-fun/issues"
+  },
+  "homepage": "https://github.com/emilyaviva/es6-fun#readme"
+}
